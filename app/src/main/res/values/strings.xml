@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AuthApp</string>
+    <string name="strAuth">Авторизация</string>
+</resources>
